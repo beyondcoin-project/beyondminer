@@ -6,7 +6,7 @@
 
 QT       += core gui network
 
-TARGET = BeyondMiner GUI
+TARGET = beyondminer
 TEMPLATE = app
 
 SOURCES += main.cpp\
